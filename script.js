@@ -1,5 +1,12 @@
 ﻿/* ========== CONFIGURACIÓN ========== */
 const PRODUCTS = [
+    {
+        id: 100,
+        name: 'Juego de Sillones El Tatita',
+        description: 'Madera de pino seleccionada y calidad artesanal. El más pedido.',
+        price: 170000,
+        image: 'https://i.postimg.cc/Nj25f2QL/Whats-App-Image-2026-03-14-at-9-52-26-PM.jpg'
+    },
     { id: 1, name: 'Sillón Individual', description: 'Cómodo sillón de pino para una persona.', price: 35000, image: 'https://i.postimg.cc/tRdhzWjh/Gemini-Generated-Image-3kru2q3kru2q3kru.png' },
     { id: 2, name: 'Mesa Ratonera', description: 'Mesa baja perfecta para acompañar tus sillones.', price: 35000, image: 'https://i.postimg.cc/rpt4RtjV/Gemini-Generated-Image-ejty56ejty56ejty-(1).png' },
     { id: 3, name: 'Sillón Doble', description: 'Sillón de pino para dos personas. Ideal para jardín.', price: 70000, image: 'https://i.postimg.cc/26HtKMpj/Whats-App-Image-2026-03-08-at-1-56-21-PM.jpg' },
